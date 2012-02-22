@@ -5,7 +5,7 @@ Hi!
 :author: Audrey Roy
 :date: 2012-02-22 9:41
 :tags: Consumer Notebook
-
+:category: blog
 
 Hello! We're the team behind `Consumer Notebook`_.
 
