@@ -7,10 +7,10 @@ Welcome
 :tags: Consumer Notebook
 :category: General
 
-Hello! We're the team behind `Consumer Notebook`_.
+Hello! We're the team behind `Consumer Notebook`_.  We're starting this collection of consumer tips because we know a lot of little tidbits that we think will be useful to others.
 
-Keep watching this blog for updates from Audrey_ and Danny_! Or is that Danny and Audrey? I don't know, something like that.
+Keep watching for updates from `Audrey Roy`_ and `Daniel Greenfeld`_.  Don't forget to bookmark this site and add it to your newsfeed readers.
 
 .. _`Consumer Notebook`: http://consumernotebook.com
-.. _Audrey: http://audreymroy.com
-.. _Danny: http://pydanny.github.com
+.. _`Audrey Roy`: http://audreymroy.com
+.. _`Daniel Greenfeld`: http://pydanny.com
