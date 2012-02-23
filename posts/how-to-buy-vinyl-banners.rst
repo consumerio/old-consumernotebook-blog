@@ -20,7 +20,7 @@ Not sure of sizes?  Go with a 6-foot or 8-foot banner with a height of 2-3 feet.
 2. Poke around online until you find a cheap place to order banners of the size you want.  The best deals I could find today were:
 
 * $12 for 2'x5' and $28 for 3'x8' color vinyl banners, BannersOnTheCheap - http://bannersonthecheap.com
-* $6.99 for 3'x2' color vinyl banners, Banner Buzz - bannerbuzz.com 
+* $6.99 for 3'x2' color vinyl banners, Banner Buzz - http://bannerbuzz.com 
 
 3. Use the online design tools to put together your banner graphic.  Choose a color combination that stands out.  Here are the most useful signage design tips I found:
 
