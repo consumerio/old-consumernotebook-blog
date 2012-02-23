@@ -1,11 +1,11 @@
 ==========================================================
-Comparison: 8 Books That Will Teach You Python Programming
+Guide: 8 Books That Will Teach You Python Programming
 ==========================================================
 
 :author: Daniel Greenfeld
 :date: 2012-02-23 20:40
-:tags: Consumer Notebook
-:category: Product Comparisons
+:tags: Python, programming
+:category: Buying Guides
 
 Want a a career that promises work for the rest of your life? Then become a software developer. In order to do that, you need to learn a language. My language preference is Python. Python is easy to pick up and yet powerful enough to have been chosen by Google, NASA, and other organizations.
 
@@ -26,7 +26,7 @@ Once you've mastered Python, or at least gotten the hang of things, here are som
 
 These are my go-to references as a professional software developer. I have both PDF and paper versions of them. They provide answers to sophisticated questions, and make great reading on long trips.
 
-There are a lot more Python books then what I've listed here. There are books on Web Development,  Check out the growing compilation of Python books I've assembled at `The Complete List of Python Programming books`_. If something isn't here, contact me on Twitter_ and let me know!
+There are a lot more Python books then what I've listed here. There are books on web development, fancy algorithms, and much more. Please check out the growing compilation of Python books I've assembled at `The Complete List of Python Programming books`_. If something isn't here, contact me on Twitter_ and let me know!
 
 
 .. _`Python books for beginners`: http://consumernotebook.com/grids/pydanny/python-books-for-beginners/
