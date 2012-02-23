@@ -1,6 +1,6 @@
-==================================
-Must have Python Programming books
-==================================
+==========================================================
+Comparison: 8 Books That Will Teach You Python Programming
+==========================================================
 
 :author: Daniel Greenfeld
 :date: 2012-02-23 20:40
@@ -9,14 +9,14 @@ Must have Python Programming books
 
 Want a a career that promises work for the rest of your life? Then become a software developer. In order to do that, you need to learn a language. My language preference is Python. Python is easy to pick up and yet powerful enough to have been chosen by Google, NASA, and other organizations.
 
-If you want to To learn Python, here are some good resources:
+If you want to learn Python, here are some good resources:
 
 .. pull-quote::
 
     `Python books for beginners`_
 
 
-These books are great for getting started, but you have to do the work. It takes a time and a lot of hard work to get to the point where you are ready to become a software developer. If you stick with working on projects and always finding ways to program things, you'll eventually get to the point where these books become a fond memory of your early days of a Python developer, and you'll start looking for higher level resources.
+These books are great for getting started, but you have to do the work. It takes time and a lot of hard work to get to the point where you are ready to become a software developer. If you stick with working on projects and always finding ways to program things, you'll eventually get to the point where these books become a fond memory of your early days of a Python developer, and you'll start looking for higher level resources.
 
 Once you've mastered Python, or at least gotten the hang of things, here are some favorite Python programming books meant for more experienced developers:
 
