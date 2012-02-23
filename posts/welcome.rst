@@ -1,11 +1,11 @@
-===
-Hi!
-===
+=======
+Welcome
+=======
 
 :author: Audrey Roy
 :date: 2012-02-22 9:41
 :tags: Consumer Notebook
-:category: blog
+:category: General
 
 Hello! We're the team behind `Consumer Notebook`_.
 
@@ -13,4 +13,4 @@ Keep watching this blog for updates from Audrey_ and Danny_! Or is that Danny an
 
 .. _`Consumer Notebook`: http://consumernotebook.com
 .. _Audrey: http://audreymroy.com
-.. _Danny: http://pydanny.githib.com
+.. _Danny: http://pydanny.github.com
